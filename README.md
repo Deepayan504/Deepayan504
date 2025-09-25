@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there 👋  I am Deepayan Chakraborty. Here is my short profile. I am also uploading my Curriculum Vitate as pdf in my profile.
+- 🔭 I’m currently a final year PhD scholar at Department of AI, IIT Kharagpur, writing his thesis titled "Generative, Explainable, and Causal AI for Climate Prediction and Simulation".
+- 🌱 I’m currently learning the bias correction of daily rainfall data using CNN based models and improving my writing skill.
+- 👯 I’m looking to post-doc position on climate prediction and mitigation using AI.
 <!--
 **Deepayan504/Deepayan504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
