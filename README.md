@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Curriculum_Vitae.pdf](https://github.com/user-attachments/files/22530642/Curriculum_Vitae.pdf)
+
